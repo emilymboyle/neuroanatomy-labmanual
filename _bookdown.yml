@@ -1,0 +1,17 @@
+new_session: yes
+rmd_files:   [ "index.rmd",
+               "acknowledgements.rmd",
+               "cells.rmd",
+               "surface.rmd",
+               "telencephalon.rmd",
+               "diencephalon.rmd",
+               "metencephalon.rmd",
+               "cerebellum.rmd",
+               "pns.rmd",
+               "tracts.rmd",
+               "senses.rmd",
+               "sheep_brain.rmd",
+               "appendix.rmd"
+               ]
+output_dir: docs
+before_chapter_script:  "_common.R"
