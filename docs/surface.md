@@ -4,7 +4,7 @@
 In this laboratory session, we will study the surface anatomy of the human brain. Below, you will be presented with a number of figures and asked to label or color certain structures in each figure.
 
 
-## A dorsal view of a human brain. 
+## A Dorsal View Of A Human Brain. 
 
 1. Write “LH“ over the left hemisphere and “RH“ over the right hemisphere in figure 1 below.
 1. Write “ANTERIOR’ and “POSTERIOR“ next to the arrowhead pointing in the corresponding direction:  
@@ -18,7 +18,7 @@ In this laboratory session, we will study the surface anatomy of the human brain
 <p class="caption">(\#fig:hbdorsal)(ref:hbd)</p>
 </div>
 
-##  A dorso-lateral view of a human brain.  
+##  A Dorso-Lateral View Of A Human Brain.  
 
 1. Write “ANTERIOR’ and “POSTERIOR“ next to the arrowhead pointing in the corresponding direction  
 1. Trace the Sylvian fissure using a black marker
@@ -31,7 +31,7 @@ In this laboratory session, we will study the surface anatomy of the human brain
 <p class="caption">(\#fig:hbdl)(ref:hbdl)</p>
 </div>
 
-## A lateral view of a human brain.
+## A Lateral View Of A Human Brain.
 
 1. Write “ANTERIOR’ and “POSTERIOR“ next to the arrowhead pointing in the corresponding direction  
 1. Write “DORSAL“ and “VENTRAL“ next to the arrowhead pointing in the corresponding direction  
@@ -46,7 +46,7 @@ In this laboratory session, we will study the surface anatomy of the human brain
 <p class="caption">(\#fig:hbl)(ref:hbl)</p>
 </div>
 
-## A ventral view of a human brain. 
+## A Ventral View Of A Human Brain. 
 
 1. Write “LH“ over the left hemisphere and “RH‘ over the right hemisphere in figure 1 below.
 1. Write “LCblH“ over the left hemisphere of the cerebellum and “RCblH‘ over the right cerebellar hemisphere in the figure below.
@@ -61,7 +61,7 @@ In this laboratory session, we will study the surface anatomy of the human brain
 <p class="caption">(\#fig:hbv)(ref:hbv)</p>
 </div>
 
-## A lateral view of the human brain.
+## A Lateral View Of The Human Brain.
 
 1. Color the frontal lobe red
 2. Color the temporal lobe green
@@ -92,7 +92,7 @@ In this laboratory session, we will study the surface anatomy of the human brain
 </div>
 
 
-## A medial view of the human brain.
+## A Medial View Of The Human Brain.
 
 1. Color the septum pellucidum yellow
 1. Color the thalamus blue
@@ -135,10 +135,10 @@ In this laboratory session, we will study the surface anatomy of the human brain
 <p class="caption">(\#fig:bflmiii)(ref:blmiii)</p>
 </div>
 
-## Cytoarchitectonic areas according to Brodmann
+## Cytoarchitectonic Areas According To Brodmann
 
 
-1. Label the highlighted Brodamann areas with the corresponding numbers and names.
+1. Label the highlighted areas with the corresponding numbers given by Broadmann.
 
 (ref:bl) A lateral view of the cytoarchitectonic areas of the human brain according to Brodmann. 
 
@@ -147,12 +147,12 @@ In this laboratory session, we will study the surface anatomy of the human brain
 <p class="caption">(\#fig:brodl)(ref:bl)</p>
 </div>
 
-1. Label the highlighted Brodamann areas with the corresponding numbers and names
-
+1. Label the highlighted Brodamann areas with the corresponding numbers.
 (ref:bm) A medial view of the cytoarchitectonic areas of the human brain according to Brodmann
+
+(ref:bm) A medial view of the cytoarchitectonic areas of the human brain according to Brodmann. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/Brodmann_medial.jpg" alt="(ref:bm)" width="70%" />
 <p class="caption">(\#fig:brodm)(ref:bm)</p>
 </div>
-

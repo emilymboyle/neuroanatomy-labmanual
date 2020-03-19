@@ -3,7 +3,7 @@
 In this laboratory session, we will study the surface anatomy of the human brain. Below, you will be presented with a number of figures and asked to label or color certain structures in each figure.
 
 
-## A dorsal view of a human brain. 
+## A Dorsal View Of A Human Brain. 
 
 1. Write “LH“ over the left hemisphere and “RH“ over the right hemisphere in figure 1 below.
 1. Write “ANTERIOR’ and “POSTERIOR“ next to the arrowhead pointing in the corresponding direction:  
@@ -16,7 +16,7 @@ In this laboratory session, we will study the surface anatomy of the human brain
 knitr::include_graphics("./figures/cns/human_brain_dorsal.png")
 ```
 
-##  A dorso-lateral view of a human brain.  
+##  A Dorso-Lateral View Of A Human Brain.  
 
 1. Write “ANTERIOR’ and “POSTERIOR“ next to the arrowhead pointing in the corresponding direction  
 1. Trace the Sylvian fissure using a black marker
@@ -28,7 +28,7 @@ knitr::include_graphics("./figures/cns/human_brain_dorsal.png")
 knitr::include_graphics("./figures/cns/human_brain_dorsal_lateral.png")
 ```
 
-## A lateral view of a human brain.
+## A Lateral View Of A Human Brain.
 
 1. Write “ANTERIOR’ and “POSTERIOR“ next to the arrowhead pointing in the corresponding direction  
 1. Write “DORSAL“ and “VENTRAL“ next to the arrowhead pointing in the corresponding direction  
@@ -42,7 +42,7 @@ knitr::include_graphics("./figures/cns/human_brain_dorsal_lateral.png")
 knitr::include_graphics("./figures/cns/human_brain_lateral.png")
 ```
 
-## A ventral view of a human brain. 
+## A Ventral View Of A Human Brain. 
 
 1. Write “LH“ over the left hemisphere and “RH‘ over the right hemisphere in figure 1 below.
 1. Write “LCblH“ over the left hemisphere of the cerebellum and “RCblH‘ over the right cerebellar hemisphere in the figure below.
@@ -56,7 +56,7 @@ knitr::include_graphics("./figures/cns/human_brain_lateral.png")
 knitr::include_graphics("./figures/cns/human_brain_ventral.png")
 ```
 
-## A lateral view of the human brain.
+## A Lateral View Of The Human Brain.
 
 1. Color the frontal lobe red
 2. Color the temporal lobe green
@@ -86,7 +86,7 @@ knitr::include_graphics("./figures/cns/brain_for_labeling_gyri.png")
 ```
 
 
-## A medial view of the human brain.
+## A Medial View Of The Human Brain.
 
 1. Color the septum pellucidum yellow
 1. Color the thalamus blue
@@ -126,7 +126,7 @@ knitr::include_graphics("./figures/cns/brain_for_labeling_medial_II.png")
 knitr::include_graphics("./figures/cns/brain_for_labeling_medial_III.png")
 ```
 
-## Cytoarchitectonic areas according to Brodmann
+## Cytoarchitectonic Areas According To Brodmann
 
 
 1. Label the highlighted areas with the corresponding numbers given by Broadmann.
@@ -140,7 +140,8 @@ knitr::include_graphics("./figures/cns/Brodmann_lateral.jpg")
 1. Label the highlighted Brodamann areas with the corresponding numbers.
 (ref:bm) A medial view of the cytoarchitectonic areas of the human brain according to Brodmann
 
+(ref:bm) A medial view of the cytoarchitectonic areas of the human brain according to Brodmann. 
+
 ```{r brodm, fig.cap='(ref:bm)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cns/Brodmann_medial.jpg")
 ```
-

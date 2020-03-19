@@ -8,7 +8,6 @@ rmd_files:   [ "index.rmd",
                "metencephalon.rmd",
                "cerebellum.rmd",
                "pns.rmd",
-               "tracts.rmd",
                "senses.rmd",
                "sheep_brain.rmd",
                "appendix.rmd"
