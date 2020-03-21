@@ -1,7 +1,90 @@
 
 # The Sensory Systems
 
-In this laboratory session, we will study aspects of the anatomy of the olfactory, gustatory, auditory and visual systems. Below, you will be presented with a number of figures and asked to label or color certain structures in each figure.
+In this laboratory session, we will study aspects of the anatomy of the visual, olfactory, gustatory, and auditory systems. Below, you will be presented with a number of figures and asked to label or color certain structures in each figure.
+
+## The Visual System
+
+### Eyball Dissection
+
+### The Eye
+
+
+In Figure \@ref(fig:eye) , label the following structures:
+
+1. Color the lens of the eye in yellow. 
+1. Color the vitreous body in pink. 
+1. Color the iris in brown.
+1. Color the retina in green.
+1. Color the sclera in blue.
+1. Color the ciliary body in red.
+1. Label the structures pointed to by the black lines with the appropriate anatomical name.
+
+(ref:ey) A horizontal section of the eyball. 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/senses/eye_for_labeling.jpg" alt="(ref:ey)" width="70%" />
+<p class="caption">(\#fig:eye)(ref:ey)</p>
+</div>
+
+### The Retina 
+
+In Figure \@ref(fig:retcajal) , label the following layers, structures, and cells:
+
+1. Photoreceptor layer.
+2. Outer plexiform layer.
+3. Internal nuclear layer.
+4. Internal plexiform layer.
+5. Ganglion cell layer.
+6. Ganglion cell axons.
+7. A cone.
+8. A rod.
+9. Horizontal cells.
+10. Amacrine cells. 
+
+
+(ref:retina) Vertical section of the adult human retina. Carmine and Nissl stain. Modified from Fig. 188 in [Histologie du système nerveux de l'homme & des vertébrés](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=0&z=-0.9137%2C-0.0887%2C2.8274%2C1.7747) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/senses/retina_cajal.png" alt="(ref:retina)" width="70%" />
+<p class="caption">(\#fig:retcajal)(ref:retina)</p>
+</div>
+
+In Figure \@ref(fig:frogretina), label the following layers, structures, and cells:
+
+1. A rod
+1. A cone
+1. Ahorizontal cell
+1. A bipolar cell
+1. Various types of amacrine cells
+1. A ganglion cell
+1. A displaced amacrine cell
+1. A pigment epithelial cell with extended process
+1. A pigment epithelial cell with retracted process
+
+(ref:frogret) A semischematic diagram of the frog retina. 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/senses/FrogRetinaCajalManual.jpg" alt="(ref:frogret)" width="70%" />
+<p class="caption">(\#fig:frogretina)(ref:frogret)</p>
+</div>
+
+### Visual Areas Of The Cortex
+
+1. Label the visual areas V1, V2, and V3 in Figures \@ref(fig:brodl) and \@ref(fig:brodm) :
+
+
+<div class="figure" style="text-align: center">
+<img src="./figures/cns/Brodmann_lateral.jpg" alt="(ref:bl)" width="70%" />
+<p class="caption">(\#fig:brodl)(ref:bl)</p>
+</div>
+
+
+<div class="figure" style="text-align: center">
+<img src="./figures/cns/Brodmann_medial.jpg" alt="(ref:bm)" width="70%" />
+<p class="caption">(\#fig:brodm)(ref:bm)</p>
+</div>
+
 
 ## The Olfactory System
 
@@ -91,84 +174,5 @@ In Figure \@ref(fig:corti) , label the following structures:
 <div class="figure" style="text-align: center">
 <img src="./figures/senses/anatomyofhumanbo1918gray_1062_for_labelling.jpg" alt="(ref:cort)" width="70%" />
 <p class="caption">(\#fig:corti)(ref:cort)</p>
-</div>
-
-## The Visual System
-
-### The Eye
-
-In Figure \@ref(fig:eye) , label the following structures:
-
-1. Color the lens of the eye in yellow. 
-1. Color the vitreous body in pink. 
-1. Color the iris in brown.
-1. Color the retina in green.
-1. Color the sclera in blue.
-1. Color the ciliary body in red.
-1. Label the structures pointed to by the black lines with the appropriate anatomical name.
-
-(ref:ey) A horizontal section of the eyball. 
-
-<div class="figure" style="text-align: center">
-<img src="./figures/senses/eye_for_labeling.jpg" alt="(ref:ey)" width="70%" />
-<p class="caption">(\#fig:eye)(ref:ey)</p>
-</div>
-
-### The Retina 
-
-In Figure \@ref(fig:retcajal) , label the following layers, structures, and cells:
-
-1. Photoreceptor layer.
-2. Outer plexiform layer.
-3. Internal nuclear layer.
-4. Internal plexiform layer.
-5. Ganglion cell layer.
-6. Ganglion cell axons.
-7. A cone.
-8. A rod.
-9. Horizontal cells.
-10. Amacrine cells. 
-
-
-(ref:retina) Vertical section of the adult human retina. Carmine and Nissl stain. Modified from Fig. 188 in [Histologie du système nerveux de l'homme & des vertébrés](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=0&z=-0.9137%2C-0.0887%2C2.8274%2C1.7747) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
-
-<div class="figure" style="text-align: center">
-<img src="./figures/senses/retina_cajal.png" alt="(ref:retina)" width="70%" />
-<p class="caption">(\#fig:retcajal)(ref:retina)</p>
-</div>
-
-In Figure \@ref(fig:frogretina), label the following layers, structures, and cells:
-
-1. A rod
-1. A cone
-1. Ahorizontal cell
-1. A bipolar cell
-1. Various types of amacrine cells
-1. A ganglion cell
-1. A displaced amacrine cell
-1. A pigment epithelial cell with extended process
-1. A pigment epithelial cell with retracted process
-
-(ref:frogret) A semischematic diagram of the frog retina. 
-
-<div class="figure" style="text-align: center">
-<img src="./figures/senses/FrogRetinaCajalManual.jpg" alt="(ref:frogret)" width="70%" />
-<p class="caption">(\#fig:frogretina)(ref:frogret)</p>
-</div>
-
-### Visual Areas Of The Cortex
-
-1. Label the visual areas V1, V2, and V3 in Figures \@ref(fig:brodl) and \@ref(fig:brodm) :
-
-
-<div class="figure" style="text-align: center">
-<img src="./figures/cns/Brodmann_lateral.jpg" alt="(ref:bl)" width="70%" />
-<p class="caption">(\#fig:brodl)(ref:bl)</p>
-</div>
-
-
-<div class="figure" style="text-align: center">
-<img src="./figures/cns/Brodmann_medial.jpg" alt="(ref:bm)" width="70%" />
-<p class="caption">(\#fig:brodm)(ref:bm)</p>
 </div>
 

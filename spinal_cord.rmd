@@ -1,0 +1,22 @@
+#  The Spinal Cord
+
+In this laboratory session, we will study the anatomy of the spinal cord. Below, you will be presented with a number of figures and asked to label or color certain structures in each figure.
+
+## Spinal Cord Dissection
+
+
+## A Series of Coronal Sections Of A Human Brain 
+
+In Figure \@ref(fig:frogretina), label the following structures:
+
+1. A rod
+1. A cone
+1. Ahorizontal cell
+1. A bipolar cell
+1. Various types of amacrine cells
+1. A ganglion cell
+1. A displaced amacrine cell
+1. A pigment epithelial cell with extended process
+1. A pigment epithelial cell with retracted process
+
+

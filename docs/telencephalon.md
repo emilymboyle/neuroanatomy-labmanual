@@ -254,11 +254,11 @@ In Figure \@ref(fig:frogretina), label the following structures:
 1. A pigment epithelial cell with extended process
 1. A pigment epithelial cell with retracted process
 
-(ref:hbd) A dorsal view of a human brain. 
+(ref:c1520) Sagittal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
-<img src="./figures/cns/2660_cell.jpg" alt="(ref:hbd)" width="70%" />
-<p class="caption">(\#fig:hbdorsa)(ref:hbd)</p>
+<img src="./figures/cns/1520_cell.jpg" alt="(ref:c1520)" width="70%" />
+<p class="caption">(\#fig:15)(ref:c1520)</p>
 </div>
 
 In Figure \@ref(fig:frogretina), label the following structures:
@@ -273,10 +273,40 @@ In Figure \@ref(fig:frogretina), label the following structures:
 1. A pigment epithelial cell with extended process
 1. A pigment epithelial cell with retracted process
 
-(ref:hbd) A dorsal view of a human brain. 
+(ref:c1680) Sagittal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+
+##  A Series Of Horizontal Sections Of A Human Brain  
+
+In Figure \@ref(fig:frogretina), label the following structures:
+
+1. A rod
+1. A cone
+1. Ahorizontal cell
+1. A bipolar cell
+1. Various types of amacrine cells
+1. A ganglion cell
+1. A displaced amacrine cell
+1. A pigment epithelial cell with extended process
+1. A pigment epithelial cell with retracted process
+
+(ref:c1520) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
-<img src="./figures/cns/2660_cell.jpg" alt="(ref:hbd)" width="70%" />
-<p class="caption">(\#fig:hbdorl)(ref:hbd)</p>
+<img src="./figures/cns/1520_cell.jpg" alt="(ref:c1520)" width="70%" />
+<p class="caption">(\#fig:152)(ref:c1520)</p>
 </div>
+
+In Figure \@ref(fig:frogretina), label the following structures:
+
+1. A rod
+1. A cone
+1. Ahorizontal cell
+1. A bipolar cell
+1. Various types of amacrine cells
+1. A ganglion cell
+1. A displaced amacrine cell
+1. A pigment epithelial cell with extended process
+1. A pigment epithelial cell with retracted process
+
+(ref:c1680) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
 
