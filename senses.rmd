@@ -129,7 +129,7 @@ In Figure \@ref(fig:retcajal) , label the following layers, structures, and cell
 knitr::include_graphics("./figures/senses/retina_cajal.png")
 ```
 
-In Figure \@ref(fig:frogretina) , label the following layers, structures, and cells:
+In Figure \@ref(fig:frogretina), label the following layers, structures, and cells:
 
 1. A rod
 1. A cone

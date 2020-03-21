@@ -137,7 +137,7 @@ In Figure \@ref(fig:retcajal) , label the following layers, structures, and cell
 <p class="caption">(\#fig:retcajal)(ref:retina)</p>
 </div>
 
-In Figure \@ref(fig:frogretina) , label the following layers, structures, and cells:
+In Figure \@ref(fig:frogretina), label the following layers, structures, and cells:
 
 1. A rod
 1. A cone
@@ -152,8 +152,8 @@ In Figure \@ref(fig:frogretina) , label the following layers, structures, and ce
 (ref:frogret) A semischematic diagram of the frog retina. 
 
 <div class="figure" style="text-align: center">
-<img src="./figures/senses/FrogRetinaCajalManual.jpg" alt="(ref:retina)" width="70%" />
-<p class="caption">(\#fig:frogretina)(ref:retina)</p>
+<img src="./figures/senses/FrogRetinaCajalManual.jpg" alt="(ref:frogret)" width="70%" />
+<p class="caption">(\#fig:frogretina)(ref:frogret)</p>
 </div>
 
 ### Visual Areas Of The Cortex
