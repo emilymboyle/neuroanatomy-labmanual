@@ -1,6 +1,39 @@
 #  The Spinal Cord
 
-In this laboratory session, we will study the anatomy of the spinal cord. Below, you will be presented with a number of figures and asked to label or color certain structures in each figure.
+In this laboratory session, we will study the anatomy of the spinal cord. The spinal cord is a long, thin, tubular structure made up of nervous tissue, which extends from the medulla oblongata in the brainstem to the lumbar region of the vertebral column. It encloses the central canal of the spinal cord, which contains cerebrospinal fluid. The brain and spinal cord together make up the central nervous system (CNS). In humans, the spinal cord begins at the occipital bone, passing through the foramen magnum and entering the spinal canal at the beginning of the cervical vertebrae. The spinal cord extends down to between the first and second lumbar vertebrae, where it ends. The enclosing bony vertebral column protects the relatively shorter spinal cord. It is around 45 cm (18 in) in men and around 43 cm (17 in) long in women. The diameter of the spinal cord ranges from 13 mm (1⁄2 in) in the cervical and lumbar regions to 6.4 mm (1⁄4 in) in the thoracic area.
+
+Below, you will be presented with a number of figures and asked to label or color certain structures in each figure.
+
+## A Series of Coronal Sections Of A Human Brain And Spinal Cord
+
+In Figure \@ref(fig:2800), label the following structures:
+
+1. The vermis
+1. The cerebellum
+1. The inferior olive
+1. The spinal cord
+
+```{r 2800, fig.cap='(ref:c2800)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/2800_cell.jpg")
+```
+
+In Figure \@ref(fig:3270), label the following structures:
+
+1. The calcarine sulcus
+1. The striate cortex (primary visual cortex)
+1. The vermis
+1. The cerebellum
+1. The spinal cord:
+   * dorsal horn
+   * ventral horn
+   * dorsal column
+   * lateral column
+   * ventral column
+
+
+```{r 3270, fig.cap='(ref:c3270)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/3270_cell.jpg")
+```
 
 ## Spinal Cord Dissection
 
