@@ -13,10 +13,14 @@ In this laboratory session, we will study the surface anatomy of the human brain
 
 (ref:hbd) A dorsal view of a human brain. 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/cns/human_brain_dorsal.png" alt="(ref:hbd)" width="70%" />
-<p class="caption">(\#fig:hbdorsal)(ref:hbd)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cns/human_brain_dorsal} 
+
+}
+
+\caption{(ref:hbd)}(\#fig:hbdorsal)
+\end{figure}
 
 ##  A Dorso-Lateral View Of A Human Brain.  
 
@@ -26,10 +30,14 @@ In this laboratory session, we will study the surface anatomy of the human brain
 
 (ref:hbdl) A dorso-lateral view of a human brain. 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/cns/human_brain_dorsal_lateral.png" alt="(ref:hbdl)" width="70%" />
-<p class="caption">(\#fig:hbdl)(ref:hbdl)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cns/human_brain_dorsal_lateral} 
+
+}
+
+\caption{(ref:hbdl)}(\#fig:hbdl)
+\end{figure}
 
 ## A Lateral View Of A Human Brain.
 
@@ -41,10 +49,14 @@ In this laboratory session, we will study the surface anatomy of the human brain
 
 (ref:hbl) A lateral view of a human brain. 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/cns/human_brain_lateral.png" alt="(ref:hbl)" width="70%" />
-<p class="caption">(\#fig:hbl)(ref:hbl)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cns/human_brain_lateral} 
+
+}
+
+\caption{(ref:hbl)}(\#fig:hbl)
+\end{figure}
 
 ## A Ventral View Of A Human Brain. 
 
@@ -56,10 +68,14 @@ In this laboratory session, we will study the surface anatomy of the human brain
 
 (ref:hbv) A ventral view of a human brain. 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/cns/human_brain_ventral.png" alt="(ref:hbv)" width="70%" />
-<p class="caption">(\#fig:hbv)(ref:hbv)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cns/human_brain_ventral} 
+
+}
+
+\caption{(ref:hbv)}(\#fig:hbv)
+\end{figure}
 
 ## A Lateral View Of The Human Brain.
 
@@ -73,10 +89,14 @@ In this laboratory session, we will study the surface anatomy of the human brain
 
 (ref:bll) A lateral view of the major lobes of the human brain.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/cns/brain_for_labeling_lobes.png" alt="(ref:bll)" width="70%" />
-<p class="caption">(\#fig:bfll)(ref:bll)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cns/brain_for_labeling_lobes} 
+
+}
+
+\caption{(ref:bll)}(\#fig:bfll)
+\end{figure}
 
 1. Mark the central sulcus with a sequence of  “o“’s.
 1. Mark the Sylvian fissure with a sequence of “x”’s.
@@ -86,10 +106,14 @@ In this laboratory session, we will study the surface anatomy of the human brain
 
 (ref:blg) A lateral view of the major gyri of the human brain.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/cns/brain_for_labeling_gyri.png" alt="(ref:blg)" width="70%" />
-<p class="caption">(\#fig:bflg)(ref:blg)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cns/brain_for_labeling_gyri} 
+
+}
+
+\caption{(ref:blg)}(\#fig:bflg)
+\end{figure}
 
 
 ## A Medial View Of The Human Brain.
@@ -105,10 +129,14 @@ In this laboratory session, we will study the surface anatomy of the human brain
 
 (ref:blmi) A medial view of the human brain.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/cns/brain_for_labeling_medial_I.png" alt="(ref:blmi)" width="70%" />
-<p class="caption">(\#fig:bflm)(ref:blmi)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cns/brain_for_labeling_medial_I} 
+
+}
+
+\caption{(ref:blmi)}(\#fig:bflm)
+\end{figure}
 
 1. Color the cingulate gyrus green
 2. Color the corpus callosum red
@@ -118,10 +146,14 @@ In this laboratory session, we will study the surface anatomy of the human brain
 
 (ref:blmii) A medial view of a human brain. 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/cns/brain_for_labeling_medial_II.png" alt="(ref:blmii)" width="70%" />
-<p class="caption">(\#fig:bflmii)(ref:blmii)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cns/brain_for_labeling_medial_II} 
+
+}
+
+\caption{(ref:blmii)}(\#fig:bflmii)
+\end{figure}
 
 1. Color the third ventricle green
 2. Color the aqueduct red
@@ -130,10 +162,14 @@ In this laboratory session, we will study the surface anatomy of the human brain
 
 (ref:blmii) A medial view of a human brain. 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/cns/brain_for_labeling_medial_III.png" alt="(ref:blmiii)" width="70%" />
-<p class="caption">(\#fig:bflmiii)(ref:blmiii)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cns/brain_for_labeling_medial_III} 
+
+}
+
+\caption{(ref:blmiii)}(\#fig:bflmiii)
+\end{figure}
 
 ## Cytoarchitectonic Areas According To Brodmann
 
@@ -142,17 +178,25 @@ In this laboratory session, we will study the surface anatomy of the human brain
 
 (ref:bl) A lateral view of the cytoarchitectonic areas of the human brain according to Brodmann. 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/cns/Brodmann_lateral.jpg" alt="(ref:bl)" width="70%" />
-<p class="caption">(\#fig:brodl)(ref:bl)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cns/Brodmann_lateral} 
+
+}
+
+\caption{(ref:bl)}(\#fig:brodl)
+\end{figure}
 
 1. Label the highlighted Brodamann areas with the corresponding numbers.
 (ref:bm) A medial view of the cytoarchitectonic areas of the human brain according to Brodmann
 
 (ref:bm) A medial view of the cytoarchitectonic areas of the human brain according to Brodmann. 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/cns/Brodmann_medial.jpg" alt="(ref:bm)" width="70%" />
-<p class="caption">(\#fig:brodm)(ref:bm)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cns/Brodmann_medial} 
+
+}
+
+\caption{(ref:bm)}(\#fig:brodm)
+\end{figure}

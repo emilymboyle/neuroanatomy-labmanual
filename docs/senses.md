@@ -22,10 +22,14 @@ In Figure \@ref(fig:eye) , label the following structures:
 
 (ref:ey) A horizontal section of the eyball. 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/senses/eye_for_labeling.jpg" alt="(ref:ey)" width="70%" />
-<p class="caption">(\#fig:eye)(ref:ey)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/senses/eye_for_labeling} 
+
+}
+
+\caption{(ref:ey)}(\#fig:eye)
+\end{figure}
 
 ### The Retina 
 
@@ -45,10 +49,14 @@ In Figure \@ref(fig:retcajal) , label the following layers, structures, and cell
 
 (ref:retina) Vertical section of the adult human retina. Carmine and Nissl stain. Modified from Fig. 188 in [Histologie du système nerveux de l'homme & des vertébrés](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=0&z=-0.9137%2C-0.0887%2C2.8274%2C1.7747) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/senses/retina_cajal.png" alt="(ref:retina)" width="70%" />
-<p class="caption">(\#fig:retcajal)(ref:retina)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/senses/retina_cajal} 
+
+}
+
+\caption{(ref:retina)}(\#fig:retcajal)
+\end{figure}
 
 In Figure \@ref(fig:frogretina), label the following layers, structures, and cells:
 
@@ -64,26 +72,38 @@ In Figure \@ref(fig:frogretina), label the following layers, structures, and cel
 
 (ref:frogret) A semischematic diagram of the frog retina. 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/senses/FrogRetinaCajalManual.jpg" alt="(ref:frogret)" width="70%" />
-<p class="caption">(\#fig:frogretina)(ref:frogret)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/senses/FrogRetinaCajalManual} 
+
+}
+
+\caption{(ref:frogret)}(\#fig:frogretina)
+\end{figure}
 
 ### Visual Areas Of The Cortex
 
 1. Label the visual areas V1, V2, and V3 in Figures \@ref(fig:brodl) and \@ref(fig:brodm) :
 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/cns/Brodmann_lateral.jpg" alt="(ref:bl)" width="70%" />
-<p class="caption">(\#fig:brodl)(ref:bl)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cns/Brodmann_lateral} 
+
+}
+
+\caption{(ref:bl)}(\#fig:brodl)
+\end{figure}
 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/cns/Brodmann_medial.jpg" alt="(ref:bm)" width="70%" />
-<p class="caption">(\#fig:brodm)(ref:bm)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cns/Brodmann_medial} 
+
+}
+
+\caption{(ref:bm)}(\#fig:brodm)
+\end{figure}
 
 
 ## The Olfactory System
@@ -100,10 +120,14 @@ In Figure \@ref(fig:olfactorypath) , label the following layers, structures, and
 
 (ref:olf) Diagram of the structure of the olfactory bulb and olfactory cortex. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
 
-<div class="figure" style="text-align: center">
-<img src="./figures/senses/CajalOlfactoryPathway_for_labeling.jpg" alt="(ref:olf)" width="70%" />
-<p class="caption">(\#fig:olfactorypath)(ref:olf)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/senses/CajalOlfactoryPathway_for_labeling} 
+
+}
+
+\caption{(ref:olf)}(\#fig:olfactorypath)
+\end{figure}
 
 ## The Gustatory System
 
@@ -116,10 +140,14 @@ In Figure \@ref(fig:gusta) , label the following structures:
 (ref:gust) A vertical section of a taste bud from the papilla foliata of a rabbit (highly magnified). From [Textbook of anatomy. Section 2. The muscular system: the nervous system: the organs of sense and integument edited by D. J. Cunningham](https://wellcomelibrary.org/item/b21271070) 
 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/senses/CunninghamSection2Page771 _for_labelling.jpg" alt="(ref:olf)" width="70%" />
-<p class="caption">(\#fig:gusta)(ref:olf)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/senses/CunninghamSection2Page771 _for_labelling} 
+
+}
+
+\caption{(ref:olf)}(\#fig:gusta)
+\end{figure}
 
 ## The Auditory System
 
@@ -137,10 +165,14 @@ In Figure \@ref(fig:hearing) , label the following structures:
 
 (ref:hear) Diagrammatic view of the hearing organ. From [Textbook of anatomy. Section 2. The muscular system: the nervous system: the organs of sense and integument edited by D. J. Cunningham](https://wellcomelibrary.org/item/b21271070) 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/senses/ear_for_labelling.jpg" alt="(ref:hear)" width="70%" />
-<p class="caption">(\#fig:hearing)(ref:hear)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/senses/ear_for_labelling} 
+
+}
+
+\caption{(ref:hear)}(\#fig:hearing)
+\end{figure}
 
 In Figure \@ref(fig:cochlea) , label the following structures:
 
@@ -155,10 +187,14 @@ In Figure \@ref(fig:cochlea) , label the following structures:
 (ref:coch) Diagramatic longitudinal section of the cochlea. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/senses/anatomyofhumanbo1918gray_1061_for_labelling.jpg" alt="(ref:coch)" width="70%" />
-<p class="caption">(\#fig:cochlea)(ref:coch)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/senses/anatomyofhumanbo1918gray_1061_for_labelling} 
+
+}
+
+\caption{(ref:coch)}(\#fig:cochlea)
+\end{figure}
 
 In Figure \@ref(fig:corti) , label the following structures:
 
@@ -171,8 +207,12 @@ In Figure \@ref(fig:corti) , label the following structures:
 (ref:cort) Section through the spiral organ of Corti (magnified). From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
 
 
-<div class="figure" style="text-align: center">
-<img src="./figures/senses/anatomyofhumanbo1918gray_1062_for_labelling.jpg" alt="(ref:cort)" width="70%" />
-<p class="caption">(\#fig:corti)(ref:cort)</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/senses/anatomyofhumanbo1918gray_1062_for_labelling} 
+
+}
+
+\caption{(ref:cort)}(\#fig:corti)
+\end{figure}
 
