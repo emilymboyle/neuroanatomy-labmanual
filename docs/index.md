@@ -18,8 +18,7 @@ lot: yes
 This is a Laboratory Manual for the Neuroanatomy course (BIO400) at SSU
 
 
-
-\begin{center}\includegraphics[width=0.7\linewidth]{neuroanatomy_lab_brain_cover} \end{center}
+<img src="neuroanatomy_lab_brain_cover.png" width="70%" style="display: block; margin: auto;" />
 
 
 This work is licensed under the [Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) United States License.
