@@ -1389,8 +1389,6 @@ In Figure \@ref(fig:1700), label the following structures:
 1. The external capsule
 
 
-
-
 (ref:h1700) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
@@ -1400,6 +1398,40 @@ In Figure \@ref(fig:1700), label the following structures:
 
 In Figure \@ref(fig:1740), label the following structures:
 
+1. The cerebral aqueduct
+1. The arcuate hypothalamic nucleus
+1. The choroid plexus
+1. The cerebral peduncle
+1. The dorsal raphe nucleus
+1. The periaqueductal grey area
+1. The 3^d^ ventricle
+1. The fimbria of the hippocampus
+1. The locus coeruleus
+1. The cerebellum
+1. The vermis of the cerebellum
+1. The external capsule
+1. The claustrum
+1. The medial longitudinal fissure
+1. The vermis of the cerebellum
+1. The dentate gyrus
+1. The hippocampus
+1. The subiculum
+1. The optic tract
+1. The insular cortex
+1. The primary visual cortex
+1. The substantia nigra
+1. The medial lemniscus
+1. The amygdala
+1. The orbital gyri
+1. The optic tract
+1. The external capsule
+1. The olfactory sulcus
+1. The interpeduncular fossa
+1. The decussation of the superior cerebellar peduncles
+1. The medial lemniscus
+1. The 3^d^ ventricle
+1. The 4^th^ ventricle
+1. The raphe nucleus
 
 
 
@@ -1412,6 +1444,31 @@ In Figure \@ref(fig:1740), label the following structures:
 
 In Figure \@ref(fig:1800), label the following structures:
 
+1. The arcuate hypothalamic nucleus
+1. The infundibular stalk
+1. The raphe nuclei
+1. The central grey of the pons
+1. The 3^d^ ventricle
+1. The locus coeruleus
+1. The cerebellum
+1. The vermis of the cerebellum
+1. The external capsule
+1. The medial longitudinal fissure
+1. The vermis of the cerebellum
+1. The dentate gyrus
+1. The hippocampus
+1. The subiculum
+1. The optic nerve
+1. The insular cortex
+1. The claustrum
+1. The primary visual cortex
+1. The medial lemniscus
+1. The amygdala
+1. The medial lemniscus
+1. The 4^th^ ventricle
+1. The trigeminal nerve
+1. The superior cerebellar peduncle
+1. The central tegmental tract
 
 
 
@@ -1423,6 +1480,32 @@ In Figure \@ref(fig:1800), label the following structures:
 </div>
 
 In Figure \@ref(fig:ho1840), label the following structures:
+
+1. The raphe nuclei
+1. The central grey of the pons
+1. The 3^d^ ventricle
+1. The locus coeruleus
+1. The cerebellum
+1. The vermis of the cerebellum
+1. The external capsule
+1. The medial longitudinal fissure
+1. The dentate gyrus
+1. The hippocampus
+1. The subiculum
+1. The optic nerve
+1. The primary visual cortex
+1. The amygdala
+1. The medial lemniscus
+1. The 4^th^ ventricle
+1. The trigeminal nerve
+1. The superior cerebellar peduncle
+1. The central tegmental tract
+1. The dentate nucleus
+1. The emboliform nucleus
+1. The fastigial nucleus
+1. The medial lemniscus
+1. The entorhinal cortex
+1. The lateral ventricle
 
 
 
@@ -1436,7 +1519,30 @@ In Figure \@ref(fig:ho1840), label the following structures:
 
 In Figure \@ref(fig:1900), label the following structures:
 
-
+1. The raphe nuclei
+1. The central grey of the pons
+1. The 3^d^ ventricle
+1. The locus coeruleus
+1. The cerebellum
+1. The vermis of the cerebellum
+1. The external capsule
+1. The medial longitudinal fissure
+1. The dentate gyrus
+1. The hippocampus
+1. The subiculum
+1. The optic nerve
+1. The primary visual cortex
+1. The amygdala
+1. The medial lemniscus
+1. The 4^th^ ventricle
+1. The trigeminal nerve
+1. The superior cerebellar peduncle
+1. The dentate nucleus
+1. The emboliform nucleus
+1. The fastigial nucleus
+1. The medial lemniscus
+1. The entorhinal cortex
+1. The lateral ventricle
 
 
 (ref:h1900) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
@@ -1447,6 +1553,32 @@ In Figure \@ref(fig:1900), label the following structures:
 </div>
 
 In Figure \@ref(fig:ho2000), label the following structures:
+
+1. The solitary tract and nucleus
+1. The facial nucleus
+1. The facial nerve root
+1. The olivary nuclei
+1. The raphe nuclei
+1. The central grey of the pons
+1. The 3^d^ ventricle
+1. The locus coeruleus
+1. The cerebellum
+1. The vermis of the cerebellum
+1. The external capsule
+1. The medial longitudinal fissure
+1. The dentate gyrus
+1. The hippocampus
+1. The subiculum
+1. The 4^th^ ventricle
+1. The trigeminal nerve
+1. The superior cerebellar peduncle
+1. The dentate nucleus
+1. The entorhinal cortex
+1. The superior vestibular nucleus
+1. The spinal trigeminal nucleus
+1. The middle cerebellar peduncle
+1. The central tegmental tract
+1. The reticular formation
 
 
 
@@ -1460,7 +1592,28 @@ In Figure \@ref(fig:ho2000), label the following structures:
 
 In Figure \@ref(fig:2100), label the following structures:
 
-
+1. The solitary tract and nucleus
+1. The facial motor nucleus
+1. The corticospinal fibers
+1. The superior olivary nuclei
+1. The cerebellum
+1. The vermis of the cerebellum
+1. The dentate gyrus
+1. The 4^th^ ventricle
+1. The trigeminal nerve
+1. The superior cerebellar peduncle
+1. The dentate nucleus
+1. The entorhinal cortex
+1. The superior vestibular nucleus
+1. The spinal trigeminal nucleus
+1. The spinal trigeminal tract
+1. The middle cerebellar peduncle
+1. The central tegmental tract
+1. The reticular formation
+1. The middle cerebellar peduncle
+1. The cerebellar tonsil
+1. The medial longitudinal fasciculus
+1. The medial vestibular nucleus
 
 
 (ref:h2100) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
@@ -1472,8 +1625,25 @@ In Figure \@ref(fig:2100), label the following structures:
 
 In Figure \@ref(fig:2200), label the following structures:
 
-
-
+1. The solitary tract and nucleus
+1. The corticospinal fibers
+1. The cerebellum
+1. The vermis of the cerebellum
+1. The 4^th^ ventricle
+1. The inferior cerebellar peduncle
+1. The medial vestibular nucleus
+1. The spinal trigeminal nucleus
+1. The spinal trigeminal tract
+1. The inferior cerebellar peduncle
+1. The cerebellar tonsil
+1. The medial longitudinal fasciculus
+1. The ventral cochlear nucleus
+1. The dorsal cochlear nucleus
+1. The hypoglossal nucleus
+1. The inferior vestibular nucleus
+1. The pontine nuclei
+1. The inferior olive
+1. The medial lemniscus
 
 (ref:h2200) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
 
@@ -1484,8 +1654,24 @@ In Figure \@ref(fig:2200), label the following structures:
 
 In Figure \@ref(fig:ho2240), label the following structures:
 
-
-
+1. The solitary tract and nucleus
+1. The corticospinal fibers
+1. The cerebellum
+1. The 4^th^ ventricle
+1. The inferior cerebellar peduncle
+1. The inferior vestibular nucleus
+1. The spinal trigeminal tract
+1. The inferior cerebellar peduncle
+1. The cerebellar tonsil
+1. The medial longitudinal fasciculus
+1. The ventral cochlear nucleus
+1. The dorsal cochlear nucleus
+1. The hypoglossal nucleus
+1. The inferior vestibular nucleus
+1. The pontine nuclei
+1. The inferior olive
+1. The medial lemniscus
+1. The choroid plexus
 
 (ref:h2240) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
 
@@ -1496,7 +1682,27 @@ In Figure \@ref(fig:ho2240), label the following structures:
 
 In Figure \@ref(fig:2260), label the following structures:
 
-
+1. The corticospinal fibers
+1. The cerebellum
+1. The 4^th^ ventricle
+1. The inferior cerebellar peduncle
+1. The inferior vestibular nucleus
+1. The cerebellar tonsil
+1. The medial longitudinal fasciculus
+1. The ventral cochlear nucleus
+1. The hypoglossal nucleus
+1. The inferior vestibular nucleus
+1. The pontine nuclei
+1. The inferior olive
+1. The medial lemniscus
+1. The choroid plexus
+1. The dorsal cochlear nucleus
+1. The external cuneate nucleus
+1. The dorsal motor nucleus of the vagus 
+1. The solitary nucleus
+1. The hypoglossal nucleus
+1. The spinal trigeminal nucleus
+1. The spinal trigeminal tract
 
 
 (ref:h2260) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
@@ -1508,8 +1714,27 @@ In Figure \@ref(fig:2260), label the following structures:
 
 In Figure \@ref(fig:2280), label the following structures:
 
-
-
+1. The corticospinal fibers
+1. The cerebellum
+1. The 4^th^ ventricle
+1. The inferior cerebellar peduncle
+1. The inferior vestibular nucleus
+1. The cerebellar tonsil
+1. The cuneate nucleus
+1. The external cuneate nucleus
+1. The vestibulocochlear nerve
+1. The medial longitudinal fasciculus
+1. The dorsal cochlear nucleus
+1. The hypoglossal nucleus
+1. The inferior vestibular nucleus
+1. The medial lemniscus
+1. The choroid plexus
+1. The dorsal cochlear nucleus
+1. The dorsal motor nucleus of the vagus 
+1. The solitary nucleus
+1. The spinal trigeminal nucleus
+1. The spinal trigeminal tract
+1. The solitary tract
 
 (ref:h2280) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
 
@@ -1520,8 +1745,23 @@ In Figure \@ref(fig:2280), label the following structures:
 
 In Figure \@ref(fig:2300), label the following structures:
 
-
-
+1. The corticospinal fibers
+1. The cerebellum
+1. The 4^th^ ventricle
+1. The inferior cerebellar peduncle
+1. The inferior vestibular nucleus
+1. The cerebellar tonsil
+1. The external cuneate nucleus
+1. The medial longitudinal fasciculus
+1. The hypoglossal nucleus
+1. The decussatin of the medial lemniscus
+1. The dorsal motor nucleus of the vagus 
+1. The solitary nucleus
+1. The spinal trigeminal nucleus
+1. The spinal trigeminal tract
+1. The solitary tract
+1. The lateral reticular nucleus
+1. The gracile nucleus
 
 (ref:h2300) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
 
@@ -1532,7 +1772,23 @@ In Figure \@ref(fig:2300), label the following structures:
 
 In Figure \@ref(fig:2340), label the following structures:
 
-
+1. The corticospinal fibers
+1. The cerebellum
+1. The 4^th^ ventricle
+1. The inferior cerebellar peduncle
+1. The inferior vestibular nucleus
+1. The cerebellar tonsil
+1. The external cuneate nucleus
+1. The medial longitudinal fasciculus
+1. The hypoglossal nucleus
+1. The decussatin of the medial lemniscus
+1. The dorsal motor nucleus of the vagus 
+1. The solitary nucleus
+1. The spinal trigeminal nucleus
+1. The spinal trigeminal tract
+1. The solitary tract
+1. The lateral reticular nucleus
+1. The gracile nucleus
 
 
 (ref:h2340) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
@@ -1544,8 +1800,25 @@ In Figure \@ref(fig:2340), label the following structures:
 
 In Figure \@ref(fig:2400), label the following structures:
 
-
-
+1. The corticospinal fibers
+1. The pyramids
+1. The accessory nucleus
+1. The cerebellum
+1. The 4^th^ ventricle
+1. The inferior cerebellar peduncle
+1. The inferior vestibular nucleus
+1. The cerebellar tonsil
+1. The cuneate nucleus
+1. The medial longitudinal fasciculus
+1. The hypoglossal nucleus
+1. The decussatin of the medial lemniscus
+1. The solitary nucleus
+1. The spinal trigeminal nucleus
+1. The spinal trigeminal tract
+1. The solitary tract
+1. The lateral reticular nucleus
+1. The gracile nucleus
+1. The inferior cerebellar peduncle
 
 (ref:h2400) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
 
@@ -1556,8 +1829,24 @@ In Figure \@ref(fig:2400), label the following structures:
 
 In Figure \@ref(fig:2440), label the following structures:
 
-
-
+1. The pyramids
+1. The pyramidal decussation
+1. The accessory nucleus
+1. The cerebellum
+1. The 4^th^ ventricle
+1. The inferior cerebellar peduncle
+1. The inferior vestibular nucleus
+1. The cerebellar tonsil
+1. The cuneate nucleus
+1. The cuneate fasciculus
+1. The medial longitudinal fasciculus
+1. The spinal trigeminal nucleus
+1. The spinal trigeminal tract
+1. The solitary tract
+1. The lateral reticular nucleus
+1. The gracile nucleus
+1. The gracile fasciculus
+1. The medial motor nuclei
 
 (ref:h2440) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
 
@@ -1568,8 +1857,19 @@ In Figure \@ref(fig:2440), label the following structures:
 
 In Figure \@ref(fig:2480), label the following structures:
 
-
-
+1. The pyramidal decussation
+1. The accessory nucleus
+1. The cerebellum
+1. The cerebellar tonsil
+1. The cuneate nucleus
+1. The cuneate fasciculus
+1. The spinal trigeminal nucleus
+1. The substantia gelatinosa
+1. The lateral reticular nucleus
+1. The gracile nucleus
+1. The gracile fasciculus
+1. The medial motor nuclei
+1. The central grey
 
 (ref:h2480) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
 
@@ -1577,5 +1877,3 @@ In Figure \@ref(fig:2480), label the following structures:
 <img src="./figures/cns/horizontal/2480_cell.jpg" alt="(ref:h2480)" width="70%" />
 <p class="caption">(\#fig:2480)(ref:h2480)</p>
 </div>
-
-
