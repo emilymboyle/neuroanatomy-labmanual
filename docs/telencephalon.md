@@ -989,8 +989,8 @@ In Figure \@ref(fig:152), label the following structures:
 (ref:s152) Sagittal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
-<img src="./figures/cns/0182_cell.jpg" alt="(ref:s182)" width="70%" />
-<p class="caption">(\#fig:152)(ref:s182)</p>
+<img src="./figures/cns/0182_cell.jpg" alt="(ref:s152)" width="70%" />
+<p class="caption">(\#fig:152)(ref:s152)</p>
 </div>
 
 ##  A Series Of Horizontal Sections Of A Human Brain  
