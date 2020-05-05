@@ -1,4 +1,3 @@
-
 # The Sensory Systems
 
 In this laboratory session, we will study aspects of the anatomy of the visual, olfactory, gustatory, and auditory systems. Below, you will be presented with a number of figures and asked to label or color certain structures in each figure.

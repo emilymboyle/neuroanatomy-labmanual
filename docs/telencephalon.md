@@ -1,4 +1,3 @@
-
 #  The Telencephalon
 
 In this laboratory session, we will study the anatomy of the human telencephalon. The cerebrum or telencephalon is a large part of the brain containing the cerebral cortex (of the two cerebral hemispheres), as well as several subcortical structures, including the hippocampus, basal ganglia, and olfactory bulb. In the human brain, the cerebrum is the uppermost region of the central nervous system. The prosencephalon or forebrain is the embryonic structure from which the cerebrum develops prenatally. In mammals, the dorsal telencephalon, or pallium, develops into the cerebral cortex, and the ventral telencephalon, or subpallium, becomes the basal ganglia. The cerebrum is also divided into approximately symmetric left and right cerebral hemispheres.

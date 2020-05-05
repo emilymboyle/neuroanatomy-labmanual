@@ -1,4 +1,3 @@
-
 # Surface Anatomy Of The Brain
 
 In this laboratory session, we will study the surface anatomy of the human brain. Below, you will be presented with a number of figures and asked to label or color certain structures in each figure.

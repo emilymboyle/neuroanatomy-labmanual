@@ -1,4 +1,3 @@
-
 # Neurons And Glia
 
 In this laboratory session, we will study the morphology of the basic cellular constitutents of the nervous system: neurons and glia.

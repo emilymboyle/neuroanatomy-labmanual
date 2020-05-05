@@ -1,4 +1,3 @@
-
 ---
 knit: "bookdown::render_book"
 title: "Laboratory Manual For BIO400 Neuroanatomy at Salem State University"
