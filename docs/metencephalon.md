@@ -790,3 +790,101 @@ In Figure \@ref(fig:2480), label the following structures:
 <img src="./figures/cns/horizontal/2480_cell.jpg" alt="(ref:h2480)" width="70%" />
 <p class="caption">(\#fig:2480)(ref:h2480)</p>
 </div>
+
+In Figure \@ref(fig:1841), label the following structures:
+
+1. The superior cerebellar peduncle
+1. The middle cerebellar peduncle
+1. The mesencephalic nucleus of cranial nerve V (trigeminal)
+1. The pontine nuclei
+1. The corticospinal fibers
+1. The medial longitudinal fasciculus
+1. The medial lemniscus
+1. The cerebellum
+
+
+(ref:bs1841) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+
+
+
+<div class="figure" style="text-align: center">
+<img src="./figures/cns/brainstem/1840_cell_unlabelled.jpg" alt="(ref:bs1841)" width="70%" />
+<p class="caption">(\#fig:1841)(ref:bs1841)</p>
+</div>
+
+In Figure \@ref(fig:2001), label the following structures:
+
+1. The inferior cerebellar peduncle
+1. The 4^th^ ventricle
+1. The middle cerebellar peduncle
+1. The vestibular nuclei
+1. The facial colliculus
+1. The nucleus of cranial nerve VII (facial)
+1. The root of cranial nerve VII (facial)
+1. The nucleus of cranial verve VI (abducens)
+1. The nucleus solitarius
+1. The pontine nuclei
+1. The corticospinal fibers
+1. The medial longitudinal fasciculus
+1. The cerebellum
+
+
+(ref:bs2001) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+
+
+
+<div class="figure" style="text-align: center">
+<img src="./figures/cns/brainstem/2000_cell_unlabelled.jpg" alt="(ref:bs2001)" width="70%" />
+<p class="caption">(\#fig:2001)(ref:bs2001)</p>
+</div>
+
+In Figure \@ref(fig:2261), label the following structures:
+
+1. The vestibular nuclei
+1. The accessory cuneate nucleus
+1. The spinal trigeminal nucleus
+1. The inferior olive
+1. The 4^th^ ventricle
+1. The nucleus ambiguus
+1. The cerebellum
+1. The reticular formation
+1. The pontine reticular formation
+1. The cerebellum
+1. The pontine nuclei
+1. The nucleus of cranial nerve XII (hypoglossus)
+1. The dorsal motor nucleus of cranial nerve X (vagus)
+1. The ventral cochlear nucleus
+1. The cranial nerve VIII (vestibulocochlear)
+1. The pyramid
+
+
+(ref:bs2261) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+
+
+
+<div class="figure" style="text-align: center">
+<img src="./figures/cns/brainstem/2260_cell_unlabelled.jpg" alt="(ref:bs2261)" width="70%" />
+<p class="caption">(\#fig:2261)(ref:bs2261)</p>
+</div>
+
+In Figure \@ref(fig:2461), label the following structures:
+
+1. The cuneate nucleus
+1. The cuneate fasciculus
+1. The gracile fasciculus
+1. The gracile nucleus
+1. The pyramidal decussation
+1. The accessory nucleus
+1. The cerebellum
+1. The spinal nucleus of cranial nerve V (trigeminal)
+
+
+(ref:bs2461) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+
+
+<div class="figure" style="text-align: center">
+<img src="./figures/cns/brainstem/2460_cell_labelled.jpg" alt="(ref:bs2461)" width="70%" />
+<p class="caption">(\#fig:2461)(ref:bs2461)</p>
+</div>
+
+

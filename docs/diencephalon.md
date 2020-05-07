@@ -173,7 +173,6 @@ In Figure \@ref(fig:272), label the following structures:
 <p class="caption">(\#fig:272)(ref:s272)</p>
 </div>
 
-
 In Figure \@ref(fig:242), label the following structures:
 
 1. The thalamus 
@@ -186,7 +185,6 @@ In Figure \@ref(fig:242), label the following structures:
 <img src="./figures/cns/0242_cell.jpg" alt="(ref:s242)" width="70%" />
 <p class="caption">(\#fig:242)(ref:s242)</p>
 </div>
-
 
 In Figure \@ref(fig:212), label the following structures:
 
@@ -225,13 +223,70 @@ In Figure \@ref(fig:152), label the following structures:
 1. The cerebral aqueduct
 1. The posterior commissure
 
-
 (ref:s152) Sagittal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/0182_cell.jpg" alt="(ref:s152)" width="70%" />
 <p class="caption">(\#fig:152)(ref:s152)</p>
 </div>
+
+In Figure \@ref(fig:1c), label the structures listed on the bottom left side:
+
+(ref:ht1c) Sagittal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/cns/1c.jpg" alt="(ref:ht1c)" width="70%" />
+<p class="caption">(\#fig:1c)(ref:ht1c)</p>
+</div>
+
+In Figure \@ref(fig:2c), label the structures listed on the bottom left side:
+
+(ref:ht2c) Sagittal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/cns/2c.jpg" alt="(ref:ht2c)" width="70%" />
+<p class="caption">(\#fig:2c)(ref:ht2c)</p>
+</div>
+
+
+In Figure \@ref(fig:3c), label the structures listed on the bottom left side:
+
+(ref:ht3c) Sagittal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/cns/3c.jpg" alt="(ref:ht3c)" width="70%" />
+<p class="caption">(\#fig:3c)(ref:ht3c)</p>
+</div>
+
+
+In Figure \@ref(fig:4c), label the structures listed on the bottom left side:
+
+(ref:ht4c) Sagittal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/cns/4c.jpg" alt="(ref:ht4c)" width="70%" />
+<p class="caption">(\#fig:4c)(ref:ht4c)</p>
+</div>
+
+In Figure \@ref(fig:5c), label the structures listed on the bottom left side:
+
+(ref:ht5c) Sagittal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/cns/5c.jpg" alt="(ref:ht5c)" width="70%" />
+<p class="caption">(\#fig:5c)(ref:ht5c)</p>
+</div>
+
+In Figure \@ref(fig:6c), label the structures listed on the bottom left side:
+
+(ref:ht6c) Sagittal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/cns/6c.jpg" alt="(ref:ht6c)" width="70%" />
+<p class="caption">(\#fig:6c)(ref:ht6c)</p>
+</div>
+
+
 
 ##  A Series Of Horizontal Sections Of A Human Brain  
 
