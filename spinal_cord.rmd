@@ -38,18 +38,4 @@ knitr::include_graphics("./figures/cns/3270_cell.jpg")
 ## Spinal Cord Dissection
 
 
-## A Series of Coronal Sections Of A Human Brain 
-
-In Figure \@ref(fig:frogretina), label the following structures:
-
-1. A rod
-1. A cone
-1. Ahorizontal cell
-1. A bipolar cell
-1. Various types of amacrine cells
-1. A ganglion cell
-1. A displaced amacrine cell
-1. A pigment epithelial cell with extended process
-1. A pigment epithelial cell with retracted process
-
 

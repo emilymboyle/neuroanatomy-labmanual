@@ -77,7 +77,7 @@ In Figure \@ref(fig:1680), label the following structures:
 knitr::include_graphics("./figures/cns/1680_cell.jpg")
 ```
 
-In Figure \@ref(fig:`1840`), label the following structures:
+In Figure \@ref(fig:1840), label the following structures:
 
 1. The cingulate sulcus
 1. The cingulate gyrus
