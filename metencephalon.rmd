@@ -706,7 +706,7 @@ In Figure \@ref(fig:1841), label the following structures:
 1. The cerebellum
 
 
-(ref:bs1841) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+(ref:bs1841) Horizontal section from [The Human Brain Atlas](https://www.brains.rad.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.rad.msu.edu/brains/copyright.html) which [acknowledges](https://www.brains.rad.msu.edu/brains/copyright.html) their support from the National Science Foundation. 
 
 
 
@@ -731,7 +731,7 @@ In Figure \@ref(fig:2001), label the following structures:
 1. The cerebellum
 
 
-(ref:bs2001) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+(ref:bs2001) Horizontal section from [The Human Brain Atlas](https://www.brains.rad.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.rad.msu.edu/brains/copyright.html) which [acknowledges](https://www.brains.rad.msu.edu/brains/copyright.html) their support from the National Science Foundation. 
 
 
 
@@ -759,7 +759,7 @@ In Figure \@ref(fig:2261), label the following structures:
 1. The pyramid
 
 
-(ref:bs2261) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+(ref:bs2261) Horizontal section from [The Human Brain Atlas](https://www.brains.rad.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.rad.msu.edu/brains/copyright.html) which [acknowledges](https://www.brains.rad.msu.edu/brains/copyright.html) their support from the National Science Foundation. 
 
 
 
@@ -779,7 +779,7 @@ In Figure \@ref(fig:2461), label the following structures:
 1. The spinal nucleus of cranial nerve V (trigeminal)
 
 
-(ref:bs2461) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+(ref:bs2461) Horizontal section from [The Human Brain Atlas](https://www.brains.rad.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.rad.msu.edu/brains/copyright.html) which [acknowledges](https://www.brains.rad.msu.edu/brains/copyright.html) their support from the National Science Foundation. 
 
 
 ```{r 2461, fig.cap='(ref:bs2461)', echo=FALSE, message=FALSE, warning=FALSE}

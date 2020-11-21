@@ -193,7 +193,7 @@ knitr::include_graphics("./figures/cns/0182_cell.jpg")
 
 In Figure \@ref(fig:1c), label the structures listed on the bottom left side:
 
-(ref:ht1c) Sagittal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+(ref:ht1c) Sagittal section from [The Human Brain Atlas](https://www.brains.rad.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.rad.msu.edu/brains/copyright.html) which [acknowledges](https://www.brains.rad.msu.edu/brains/copyright.html) their support from the National Science Foundation. 
 
 ```{r 1c, fig.cap='(ref:ht1c)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cns/1c.jpg")
@@ -201,7 +201,7 @@ knitr::include_graphics("./figures/cns/1c.jpg")
 
 In Figure \@ref(fig:2c), label the structures listed on the bottom left side:
 
-(ref:ht2c) Sagittal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+(ref:ht2c) Sagittal section from [The Human Brain Atlas](https://www.brains.rad.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.rad.msu.edu/brains/copyright.html) which [acknowledges](https://www.brains.rad.msu.edu/brains/copyright.html) their support from the National Science Foundation. 
 
 ```{r 2c, fig.cap='(ref:ht2c)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cns/2c.jpg")
@@ -210,7 +210,7 @@ knitr::include_graphics("./figures/cns/2c.jpg")
 
 In Figure \@ref(fig:3c), label the structures listed on the bottom left side:
 
-(ref:ht3c) Sagittal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+(ref:ht3c) Sagittal section from [The Human Brain Atlas](https://www.brains.rad.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.rad.msu.edu/brains/copyright.html) which [acknowledges](https://www.brains.rad.msu.edu/brains/copyright.html) their support from the National Science Foundation. 
 
 ```{r 3c, fig.cap='(ref:ht3c)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cns/3c.jpg")
@@ -219,7 +219,7 @@ knitr::include_graphics("./figures/cns/3c.jpg")
 
 In Figure \@ref(fig:4c), label the structures listed on the bottom left side:
 
-(ref:ht4c) Sagittal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+(ref:ht4c) Sagittal section from [The Human Brain Atlas](https://www.brains.rad.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.rad.msu.edu/brains/copyright.html) which [acknowledges](https://www.brains.rad.msu.edu/brains/copyright.html) their support from the National Science Foundation. 
 
 ```{r 4c, fig.cap='(ref:ht4c)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cns/4c.jpg")
@@ -227,7 +227,7 @@ knitr::include_graphics("./figures/cns/4c.jpg")
 
 In Figure \@ref(fig:5c), label the structures listed on the bottom left side:
 
-(ref:ht5c) Sagittal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+(ref:ht5c) Sagittal section from [The Human Brain Atlas](https://www.brains.rad.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.rad.msu.edu/brains/copyright.html) which [acknowledges](https://www.brains.rad.msu.edu/brains/copyright.html) their support from the National Science Foundation. 
 
 ```{r 5c, fig.cap='(ref:ht5c)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cns/5c.jpg")
@@ -235,7 +235,7 @@ knitr::include_graphics("./figures/cns/5c.jpg")
 
 In Figure \@ref(fig:6c), label the structures listed on the bottom left side:
 
-(ref:ht6c) Sagittal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+(ref:ht6c) Sagittal section from [The Human Brain Atlas](https://www.brains.rad.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.rad.msu.edu/brains/copyright.html) which [acknowledges](https://www.brains.rad.msu.edu/brains/copyright.html) their support from the National Science Foundation. 
 
 ```{r 6c, fig.cap='(ref:ht6c)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cns/6c.jpg")

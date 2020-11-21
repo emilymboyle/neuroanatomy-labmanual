@@ -246,7 +246,7 @@ In Figure \@ref(fig:1541), label the following structures:
 1. The spinothalamic tract
 1. The superior colliculus
 
-(ref:bs1541) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+(ref:bs1541) Horizontal section from [The Human Brain Atlas](https://www.brains.rad.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.rad.msu.edu/brains/copyright.html) which [acknowledges](https://www.brains.rad.msu.edu/brains/copyright.html) their support from the National Science Foundation. 
 
 ```{r 1541, fig.cap='(ref:bs1541)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cns/brainstem/1540_cell_unlabelled.jpg")
@@ -275,7 +275,7 @@ In Figure \@ref(fig:1641), label the following structures:
 1. The interpeduncular fossa
 1. The mammillary body
 
-(ref:bs1641) Horizontal section from [The Human Brain Atlas](https://msu.edu/~brains/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://msu.edu/~brains/copyright.html) which [acknowledges](https://msu.edu/~brains/copyright.html) their support from the National Science Foundation. 
+(ref:bs1641) Horizontal section from [The Human Brain Atlas](https://www.brains.rad.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.rad.msu.edu/brains/copyright.html) which [acknowledges](https://www.brains.rad.msu.edu/brains/copyright.html) their support from the National Science Foundation. 
 
 ```{r 1641, fig.cap='(ref:bs1641)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cns/brainstem/1640_cell_unlabelled.jpg")
