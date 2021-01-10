@@ -11,8 +11,7 @@ rmd_files:   [ "index.Rmd",
                "spinal_cord.rmd",
                "pns.rmd",
                "senses.rmd",
-               "sheep_brain.rmd",
-               "appendix.rmd"
+               "sheep_brain.rmd"
                ]
 output_dir: docs
 before_chapter_script:  "_common.R"
