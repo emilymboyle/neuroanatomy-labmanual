@@ -31,7 +31,7 @@ In Figure \@ref(fig:1520), label the following structures:
 1. The entorhinal cortex
 1. The parahippocampal gyrus
 
-(ref:c1520) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:c1520) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/1520_cell.jpg" alt="(ref:c1520)" width="70%" />
@@ -71,7 +71,7 @@ In Figure \@ref(fig:1680), label the following structures:
 1. The parahippocampal gyrus
 
 
-(ref:c1680) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:c1680) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 
 <div class="figure" style="text-align: center">
@@ -119,7 +119,7 @@ In Figure \@ref(fig:1840), label the following structures:
    * lateral
 
 
-(ref:c1840) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:c1840) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/index.html) their support from the National Science Foundation. 
 
 
 <div class="figure" style="text-align: center">
@@ -130,7 +130,7 @@ In Figure \@ref(fig:1840), label the following structures:
 In Figure \@ref(fig:2000), label the following structures:
 
 
-(ref:c2000) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:c2000) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 1. The cingulate sulcus
 1. The cingulate gyrus
@@ -208,7 +208,7 @@ In Figure \@ref(fig:2060), label the following structures:
 1. The parahippocampal gyrus
 1. The cerebral peduncle
 
-(ref:c2060) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:c2060) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 
 
@@ -251,7 +251,7 @@ In Figure \@ref(fig:2240), label the following structures:
 1. The cerebral aqueduct
 1. The pons
 
-(ref:c2240) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:c2240) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 
 
@@ -295,7 +295,7 @@ In Figure \@ref(fig:2390), label the following structures:
 1. The pyramidal tract
 
 
-(ref:c2390) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:c2390) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 
 
@@ -331,7 +331,7 @@ In Figure \@ref(fig:2500), label the following structures:
 1. The pontine reticular formation
 
 
-(ref:c2500) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:c2500) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 
 
@@ -351,7 +351,7 @@ In Figure \@ref(fig:2660), label the following structures:
 1. The inferior cerebellar peduncle
 1. The inferior olive
 
-(ref:c2660) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:c2660) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 
 
@@ -369,7 +369,7 @@ In Figure \@ref(fig:2800), label the following structures:
 1. The spinal cord
 
 
-(ref:c2800) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:c2800) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 
 <div class="figure" style="text-align: center">
@@ -391,7 +391,7 @@ In Figure \@ref(fig:3270), label the following structures:
    * ventral column
 
 
-(ref:c3270) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:c3270) Coronal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 
 <div class="figure" style="text-align: center">
@@ -407,7 +407,7 @@ In Figure \@ref(fig:1492), label the following structures:
 1. The superior temporal sulcus
 1. The middle temporal sulcus
 
-(ref:s1492) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:s1492) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/1492_cell.jpg" alt="(ref:s1492)" width="70%" />
@@ -426,7 +426,7 @@ In Figure \@ref(fig:1392), label the following structures:
 1. The precentral gyrus
 1. The postcentral gyrus
 
-(ref:s1392) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:s1392) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/1392_cell.jpg" alt="(ref:s1392)" width="70%" />
@@ -457,7 +457,7 @@ In Figure \@ref(fig:1232), label the following structures:
 1. Heschl's gyrus
 
 
-(ref:1232) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:1232) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/1232_cell.jpg" alt="(ref:s1232)" width="70%" />
@@ -470,7 +470,7 @@ In Figure \@ref(fig:1022), label the following structures:
 1. The  lateral sulcus
 1. The cerebellum
 
-(ref:s1022) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:s1022) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/1022_cell.jpg" alt="(ref:s1022)" width="70%" />
@@ -487,7 +487,7 @@ In Figure \@ref(fig:902), label the following structures:
 1. The  lateral ventricle
 1. The cerebellum
 
-(ref:s902) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:s902) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/0902_cell.jpg" alt="(ref:s902)" width="70%" />
@@ -507,7 +507,7 @@ In Figure \@ref(fig:842), label the following structures:
 1. The dentate gyrus
 1. The cerebellum
 
-(ref:s842) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:s842) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/0842_cell.jpg" alt="(ref:s842)" width="70%" />
@@ -529,7 +529,7 @@ In Figure \@ref(fig:782), label the following structures:
 1. The dentate gyrus
 1. The cerebellum
 
-(ref:s782) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:s782) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/0782_cell.jpg" alt="(ref:s782)" width="70%" />
@@ -552,7 +552,7 @@ In Figure \@ref(fig:722), label the following structures:
 1. The dentate gyrus
 1. The cerebellum
 
-(ref:s722) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:s722) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/0722_cell.jpg" alt="(ref:s722)" width="70%" />
@@ -586,7 +586,7 @@ In Figure \@ref(fig:572), label the following structures:
 1. The superior frontal gyrus
 1. The lateral ventricle
 
-(ref:572) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:572) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/0572_cell.jpg" alt="(ref:s572)" width="70%" />
@@ -621,7 +621,7 @@ In Figure \@ref(fig:512), label the following structures:
 1. The superior frontal gyrus
 1. The lateral ventricle
 
-(ref:s512) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:s512) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/0512_cell.jpg" alt="(ref:s512)" width="70%" />
@@ -654,7 +654,7 @@ In Figure \@ref(fig:452), label the following structures:
 1. The dentate nucleus
 
 
-(ref:s452) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:s452) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/0452_cell.jpg" alt="(ref:s452)" width="70%" />
@@ -685,7 +685,7 @@ In Figure \@ref(fig:392), label the following structures:
 1. The dentate nucleus
 1. The subthalamic nucleus
 
-(ref:s392) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:s392) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/0392_cell.jpg" alt="(ref:s392)" width="70%" />
@@ -724,7 +724,7 @@ In Figure \@ref(fig:332), label the following structures:
 1. The inferior cerebellar peduncle
 
 
-(ref:s332) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:s332) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/0332_cell.jpg" alt="(ref:s332)" width="70%" />
@@ -764,7 +764,7 @@ In Figure \@ref(fig:302), label the following structures:
 1. The cingulate gyrus
 1. The cerebellum
 
-(ref:s302) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:s302) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/0302_cell.jpg" alt="(ref:s302)" width="70%" />
@@ -806,7 +806,7 @@ In Figure \@ref(fig:272), label the following structures:
 1. The cingulate gyrus
 1. The cerebellum
 
-(ref:s272) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:s272) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/0272_cell.jpg" alt="(ref:s272)" width="70%" />
@@ -850,7 +850,7 @@ In Figure \@ref(fig:242), label the following structures:
 1. The cerebellum
 
 
-(ref:s242) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:s242) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/0242_cell.jpg" alt="(ref:s242)" width="70%" />
@@ -890,7 +890,7 @@ In Figure \@ref(fig:212), label the following structures:
 1. The cerebellum
 
 
-(ref:s212) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:s212) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/0212_cell.jpg" alt="(ref:s212)" width="70%" />
@@ -935,7 +935,7 @@ In Figure \@ref(fig:182), label the following structures:
 1. The cingulate gyrus
 1. The cerebellum
 
-(ref:s182) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:s182) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/0182_cell.jpg" alt="(ref:s182)" width="70%" />
@@ -985,7 +985,7 @@ In Figure \@ref(fig:152), label the following structures:
 1. The posterior commissure
 
 
-(ref:s152) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:s152) Sagittal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/0182_cell.jpg" alt="(ref:s152)" width="70%" />
@@ -1013,7 +1013,7 @@ In Figure \@ref(fig:800), label the following structures:
 1. The parieto-occipital sulcus
 1. The intraparietal sulcus
 
-(ref:h800) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h800) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/0800_cell.jpg" alt="(ref:h800)" width="70%" />
@@ -1045,7 +1045,7 @@ In Figure \@ref(fig:940), label the following structures:
 1. The lateral sulcus
 
 
-(ref:h940) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h940) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/0940_cell.jpg" alt="(ref:h940)" width="70%" />
@@ -1078,7 +1078,7 @@ In Figure \@ref(fig:1000), label the following structures:
 1. the lateral sulcus
 
 
-(ref:h1000) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h1000) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/1000_cell.jpg" alt="(ref:h1000)" width="70%" />
@@ -1119,7 +1119,7 @@ In Figure \@ref(fig:1100), label the following structures:
 
 
 
-(ref:h1100) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h1100) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/1100_cell.jpg" alt="(ref:h11100)" width="70%" />
@@ -1143,7 +1143,7 @@ In Figure \@ref(fig:1200), label the following structures:
 1. The medial longitudinal fissure
 
 
-(ref:h1200) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h1200) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/1200_cell.jpg" alt="(ref:h1200)" width="70%" />
@@ -1187,7 +1187,7 @@ In Figure \@ref(fig:1300), label the following structures:
 
 
 
-(ref:h1300) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h1300) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/1300_cell.jpg" alt="(ref:h1300)" width="70%" />
@@ -1224,7 +1224,7 @@ In Figure \@ref(fig:1400), label the following structures:
 
 
 
-(ref:h1400) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h1400) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/1400_cell.jpg" alt="(ref:h1400)" width="70%" />
@@ -1262,7 +1262,7 @@ In Figure \@ref(fig:1500), label the following structures:
 1. The putamen
 
 
-(ref:h1500) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h1500) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/1500_cell.jpg" alt="(ref:h1500)" width="70%" />
@@ -1300,7 +1300,7 @@ In Figure \@ref(fig:1600), label the following structures:
 1. The external capsule
 
 
-(ref:h1600) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h1600) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/1600_cell.jpg" alt="(ref:h1600)" width="70%" />
@@ -1344,7 +1344,7 @@ In Figure \@ref(fig:1640), label the following structures:
 1. The external capsule
 
 
-(ref:h1640) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h1640) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/1640_cell.jpg" alt="(ref:h1640)" width="70%" />
@@ -1388,7 +1388,7 @@ In Figure \@ref(fig:1700), label the following structures:
 1. The external capsule
 
 
-(ref:h1700) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h1700) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/1700_cell.jpg" alt="(ref:h1700)" width="70%" />
@@ -1434,7 +1434,7 @@ In Figure \@ref(fig:1740), label the following structures:
 
 
 
-(ref:h1740) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h1740) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/1740_cell.jpg" alt="(ref:h1740)" width="70%" />
@@ -1471,7 +1471,7 @@ In Figure \@ref(fig:1800), label the following structures:
 
 
 
-(ref:h1800) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h1800) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/1800_cell.jpg" alt="(ref:h1800)" width="70%" />
@@ -1509,7 +1509,7 @@ In Figure \@ref(fig:ho1840), label the following structures:
 
 
 
-(ref:h1840) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h1840) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/1840_cell.jpg" alt="(ref:h1840)" width="70%" />
@@ -1544,7 +1544,7 @@ In Figure \@ref(fig:1900), label the following structures:
 1. The lateral ventricle
 
 
-(ref:h1900) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h1900) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/1900_cell.jpg" alt="(ref:h1900)" width="70%" />
@@ -1582,7 +1582,7 @@ In Figure \@ref(fig:ho2000), label the following structures:
 
 
 
-(ref:h2000) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h2000) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/2000_cell.jpg" alt="(ref:h2000)" width="70%" />
@@ -1615,7 +1615,7 @@ In Figure \@ref(fig:2100), label the following structures:
 1. The medial vestibular nucleus
 
 
-(ref:h2100) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h2100) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/2100_cell.jpg" alt="(ref:h2100)" width="70%" />
@@ -1644,7 +1644,7 @@ In Figure \@ref(fig:2200), label the following structures:
 1. The inferior olive
 1. The medial lemniscus
 
-(ref:h2200) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h2200) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/2200_cell.jpg" alt="(ref:h2200)" width="70%" />
@@ -1672,7 +1672,7 @@ In Figure \@ref(fig:ho2240), label the following structures:
 1. The medial lemniscus
 1. The choroid plexus
 
-(ref:h2240) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h2240) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/2240_cell.jpg" alt="(ref:h2240)" width="70%" />
@@ -1704,7 +1704,7 @@ In Figure \@ref(fig:2260), label the following structures:
 1. The spinal trigeminal tract
 
 
-(ref:h2260) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h2260) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/2260_cell.jpg" alt="(ref:h2260)" width="70%" />
@@ -1735,7 +1735,7 @@ In Figure \@ref(fig:2280), label the following structures:
 1. The spinal trigeminal tract
 1. The solitary tract
 
-(ref:h2280) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h2280) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/2280_cell.jpg" alt="(ref:h2280)" width="70%" />
@@ -1762,7 +1762,7 @@ In Figure \@ref(fig:2300), label the following structures:
 1. The lateral reticular nucleus
 1. The gracile nucleus
 
-(ref:h2300) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h2300) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/2300_cell.jpg" alt="(ref:h2300)" width="70%" />
@@ -1790,7 +1790,7 @@ In Figure \@ref(fig:2340), label the following structures:
 1. The gracile nucleus
 
 
-(ref:h2340) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h2340) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/2340_cell.jpg" alt="(ref:h2340)" width="70%" />
@@ -1819,7 +1819,7 @@ In Figure \@ref(fig:2400), label the following structures:
 1. The gracile nucleus
 1. The inferior cerebellar peduncle
 
-(ref:h2400) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h2400) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/2400_cell.jpg" alt="(ref:h2400)" width="70%" />
@@ -1847,7 +1847,7 @@ In Figure \@ref(fig:2440), label the following structures:
 1. The gracile fasciculus
 1. The medial motor nuclei
 
-(ref:h2440) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h2440) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/2440_cell.jpg" alt="(ref:h2440)" width="70%" />
@@ -1870,7 +1870,7 @@ In Figure \@ref(fig:2480), label the following structures:
 1. The medial motor nuclei
 1. The central grey
 
-(ref:h2480) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/copyright.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
+(ref:h2480) Horizontal section from [The Human Brain Atlas](https://www.brains.anatomy.msu.edu/brains/human/index.html) at the [Michigan State University Brain Biodiveristy Bank](https://www.brains.anatomy.msu.edu/index.html) which [acknowledges](https://www.brains.anatomy.msu.edu/copyright.html) their support from the National Science Foundation. 
 
 <div class="figure" style="text-align: center">
 <img src="./figures/cns/horizontal/2480_cell.jpg" alt="(ref:h2480)" width="70%" />
